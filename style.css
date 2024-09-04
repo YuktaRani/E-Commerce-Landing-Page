@@ -1,0 +1,142 @@
+body{
+  background-color: white;
+}
+
+#navbar{
+    background-attachment: fixed;
+}
+
+.icon i{
+    color: #e7e2e2;
+    margin: 0px 1rem 10px 2rem;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-right: 10px;
+}
+
+.icon i:hover {
+    color: rgb(10, 149, 10); 
+}
+
+#logo {
+color: white;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 30px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: #35031e;
+}
+
+#psearch {
+width: 450px;
+margin: auto;
+height: 30px;
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+    width: 100px;
+}
+
+#categories{
+    color: white;
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+    font-size: 15px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(223, 4, 4, 0.2);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a {
+    display: block;
+    color:white;
+    background-color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.dropdown-content a:hover {
+    color:#35031e;
+    background-color:whitesmoke;
+}
+
+.shopping{
+    background-image: url(Super\ SALE.png);
+    background-size: cover;
+    height: 500px;
+    margin-top: 1%;
+    border: 5px solid black;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.elements{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+#box{
+    height: 230px;
+    width: 23%;
+    padding: 15px 0px 10px;
+    margin: 15px;
+    border: 2px solid black;
+    background-color: rgb(249, 245, 245);
+
+}
+
+.fashion-img{
+    height: 130px;
+    background-image: cover ;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rcap;
+    background-size: cover;
+}
+
+.fashion-detail{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(53, 3, 30) ;
+}
+
+.fashion-detail p {
+    color: rgb(6, 126, 126);
+}
+
+.contact {
+    padding: 3rem 0;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #35031e;
+}
+
+.contact p {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+}
+
+.social-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
