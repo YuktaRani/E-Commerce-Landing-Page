@@ -44,9 +44,7 @@ To view the e-commerce landing page locally, follow these steps:
 ## Screenshots
 
 ![Screenshot (161)](https://github.com/user-attachments/assets/bdbf03e7-21bb-4c4a-aca7-b59ebd8d4e74)
-
 ![Screenshot (171)](https://github.com/user-attachments/assets/545a0285-3bf7-451e-bb74-655e489ef9d1)
-
 ![Screenshot (172)](https://github.com/user-attachments/assets/836f0b7d-79c7-493a-8cf8-784c842811db)
 
 ## Contributing
